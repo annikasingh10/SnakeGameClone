@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.exe
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.deps.json
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.runtimeconfig.json
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.runtimeconfig.dev.json
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.dll
+C:\Users\user\Desktop\LAB 4-The Project\bin\Debug\netcoreapp3.1\LAB 4-The Project.pdb
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.dll
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.pdb
+C:\Users\user\Desktop\LAB 4-The Project\obj\Debug\netcoreapp3.1\LAB 4-The Project.genruntimeconfig.cache
